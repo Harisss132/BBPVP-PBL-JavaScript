@@ -10,7 +10,7 @@ if (fs.existsSync(filePath)) {
 
 let filmBaru1 = {
     judul: "Agak Laen",
-    tahun: "2012",
+    tahun: "2024",
     genre: ["Horor", "Komedi"],
 };
 
